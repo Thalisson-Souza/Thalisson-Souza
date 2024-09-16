@@ -2,7 +2,7 @@
 Sou estudante de Ciência da Computação com objetivo de aprender e aprofundar cada vez mais meus conhecimentos na aréa de programação. Venho colocando em prática o aprendizado que estou adquirindo na graduação e estudos de diversas aréas por meio de projetos práticos, em busca de desenvolver e aprofundar meu conhecimento com novas habilidades.
 
 ## 🌐 Contatos:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thalisson-souza-013853325)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thalissonsouza-)
 
 
 # 💻 Tecnologias:
