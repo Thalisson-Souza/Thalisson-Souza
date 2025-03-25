@@ -6,7 +6,7 @@ Sou estudante de Ciência da Computação com objetivo de aprender e aprofundar 
 - 💻 Explore meus projetos no <a href="https://github.com/Thalisson-Souza?tab=repositories" target="_blank">GitHub</a>
 
 ### 💻 Habilidades técnicas:
-[![My Skills](https://skillicons.dev/icons?i=java,c,spring,mysql,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,c,js,html,css)](https://skillicons.dev)
 
 ### Contato:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/thalissonsouza-)
@@ -18,4 +18,3 @@ Sou estudante de Ciência da Computação com objetivo de aprender e aprofundar 
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
