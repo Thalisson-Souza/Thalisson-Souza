@@ -11,10 +11,3 @@ Sou estudante de Ciência da Computação com objetivo de aprender e aprofundar 
 ### Contato:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/thalissonsouza-)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:thalisson.souza@acad.ufsm.br)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thalisson-Souza&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
-</div>
-
-
-
