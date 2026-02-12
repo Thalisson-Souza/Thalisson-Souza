@@ -19,9 +19,7 @@ e em ambientes profissionais colaborativos, atuando principalmente com APIs, aut
 - 🚀 Experiência em projetos que automatizaram processos reais e reduziram trabalho manual.
 - 🔗 Explore meus projetos no <a href="https://github.com/Thalisson-Souza?tab=repositories" target="_blank">GitHub</a>
 
----
-
-## ⚙️ Tecnologias
+<br>
 
 <div align="center">
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
@@ -35,7 +33,15 @@ e em ambientes profissionais colaborativos, atuando principalmente com APIs, aut
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 </div>
 
----
+
+
+<!--
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
+  </a>
+</p>
+!-->
 
 <!-- ## 🚀 Projetos em destaque
 
