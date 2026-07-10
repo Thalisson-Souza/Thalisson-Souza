@@ -11,9 +11,9 @@
 
 ### Hi there, I am Thalisson 👋
 
-**Backend Developer** with experience maintaining and evolving real production systems. I'm part of an improvements squad, working mainly with **Python**, **Django**, **Django REST Framework**, **Docker** and **SQL**.
+**Backend Developer** with experience maintaining and evolving real production systems. I'm part of an improvements squad, working mainly with Python, Django, Django REST Framework, Docker and SQL.
 
-My focus is debugging issues reported in production and implementing improvements to the system - tracing flows and finding root causes. I use **automated testing** to reproduce bugs, validate fixes and prevent regressions, following practices like **TDD**, and use **Sentry** to monitor and investigate exceptions, integration errors and failures.
+My focus is debugging issues reported in production and implementing improvements to the system - tracing flows and finding root causes. I use automated testing to reproduce bugs, validate fixes and prevent regressions, following practices like TDD, and use Sentry to monitor and investigate exceptions, integration errors and failures.
 
 Currently a **Computer Science student at Universidade Federal de Santa Maria (UFSM)**, I aim to apply what I learn to help build software that scales, following solid engineering practices.
 
@@ -31,5 +31,4 @@ Currently a **Computer Science student at Universidade Federal de Santa Maria (U
 </div>
 
 <br>
-
 
